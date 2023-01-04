@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Elevator App</string>
+    <string name="editTextTextPassword">Password</string>
+    <string name="editTextTextEmailAddress">Email</string>
+</resources>
